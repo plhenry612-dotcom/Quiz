@@ -1,2 +1,0 @@
-# Quiz
-Divertissement et apprentissage 
